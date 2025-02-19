@@ -59,6 +59,7 @@ button:hover {
 @media (max-width: 768px) {
   h2 {
     font-size: 28px;
+    color: #fc1a1a
   }
   #pDesc {
     margin-top: -1.5em;
