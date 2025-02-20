@@ -63,11 +63,13 @@ button:hover {
   }
   #pDesc {
     margin-top: -1.5em;
+    padding-left: 2em;
+    padding-right: 2em;
   }
 
   .containerGreen {
     height: 300px;
-    width: 600px;
+    width: 300px;
   }
 
   input {
